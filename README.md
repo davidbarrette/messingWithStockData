@@ -27,3 +27,9 @@ pip install pandas
 pip install alpha_vantage
 
 Go to https://www.alphavantage.co/support/#api-key to get your API key
+
+### Notes
+A file imported to app.py is ignored because it has authentification stuff, don't want online
+
+## TODO
+Move files and figure out how to import files into others?
